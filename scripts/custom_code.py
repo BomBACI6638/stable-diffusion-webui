@@ -88,3 +88,6 @@ __webuitemp__()"""
             return result
 
         return Processed(p, *display_result_data)
+webui-user.bat
+
+COMMANDLINE_ARGS=--opt-sub-quad-attention --lowvram --disable-nan-check
